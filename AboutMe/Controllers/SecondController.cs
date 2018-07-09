@@ -11,6 +11,7 @@ namespace AboutMe.Controllers
         // GET: Second
         public ActionResult Index()
         {
+            //figure out what to do with new controller.
             return View();
         }
     }
